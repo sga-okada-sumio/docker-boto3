@@ -1,8 +1,7 @@
 # docker-boto
 
-docker image for running python and boto
-python 2.7.x
-boto 2.3.80
+docker image for running AWS boto3
+python 2.7.10
 
-docker run -it --rm ptolemy428/docker-boto /bin/bash
+docker run -it --rm ptolemy428/docker-boto3 /bin/bash
 
